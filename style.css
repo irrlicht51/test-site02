@@ -449,8 +449,10 @@ footer {
   }
   .section-wrapper {
     padding: 0 4vw;
-}
-
+  }
+  .header-nav ul {
+  padding-top: 160px;
+  }
   .header-title {
     font-size: 1.8rem;
     left: 4vw;
